@@ -1,0 +1,72 @@
+			#### 01-Clase   Introducción
+
+El objetivo de este curso es enseñarles a programar, la intensión con este curso es aprender programación cienti-
+fica donde nos interesan los metodos numericos aplicados a problemas fisicos ó matematicos. Por ello solo se ex-
+caran aquellos tecnicas de programación enfocadas en resolver esos problemas. Los Cientificos no tenemos conoci-
+miento en el DESARROLLO DE SOFWARE, es por ello que lo aprendido en carreras cientificas es un poco a las patadas
+donde no se tienen herramientas usuales que manejaría un Ing de Sistemas. 
+
+El lenguaje que vamos a manejar es C++ ¿Porque C++ y no otro? Al final ustedes se van a dar cuenta que uno no debe
+aprender a programar en un solo lenguaje, de hecho; en este curso no vamos a aprender a programar bien en C++, a-
+prenderemos lo esencial, debido a que C++ es un gran conjunto de cosas Paradigmas de programación y es que en la
+computación cientifica no se necesita todo. UNA VEZ QUE APRENDAN A PENSAR COMO PROGRAMADORES PUEDEN  HEREDAR  LA
+ESTRUCTURA AL NUEVO LENGUAJE.
+
+Todo esto con el objetivo de crear una caja de herramientas donde uno utiliza la herramienta adecuada en el ins-
+tante correcto.
+
+Las personas no se ganan el nobel solo con quererlo, tiene que tener mucho trabajo y las herramientas adecuadas.
+
+Hay dos recursos importantes:
+
+    * El Canal de YouTube donde se suben las clases
+      2021-I: https://www.youtube.com/playlist?list=PLxbXsIEaf05oNQzy6D1T9mTaaklEHLLlw
+      2020-II: https://www.youtube.com/playlist?list=PLxbXsIEaf05qKMpNR69p4iUerDL9mvcE4
+
+    * El Otro es la Pagina Web del curso
+      https://iluvatar.bitbucket.io/ProgCPP/
+      Donde además de encontrar ejemplos es posible encontrar las presentaciones del curso(Diapositivas)
+
+Vamos aprender a usar el CONTROL DE VERSIONES (Git) y utilizar la consola (Terminal), Lo que sucese cuando uno
+instala un IDLE (Entorno de Desarrollo Integrado) es que el programa por defector realiza muchos pasos que por
+un programador cientifico debería entender, como debugging, las banderas del compilador, optimización , ...
+Por ello utilizaremos un editor de texto en este caso EMACS, para comenzar una introducción a C++ del item 1 al 6
+Variables, Estructuras de Control , ... para modularizar el codigo. Aprenderemos Recursión, sintasis y cosas del
+C++ Moderno(2011>) [el C++ viejo (<2008)], entraremos a la parte de Arreglos y matrices. Luego hablaremos de al-
+gunos métodos númericos y utilizando librerias, para finalizar con algunas tecnicas de programación.
+
+Cursos Virtuales de C++, paginas de ejercicios como Proyect Euler, Para practicar Git tenemos las siguiente pagi-
+na, para un editor de online podemos usar Repl.it, en la BIBLIOGRAFÍA vamos a usar los siguientes libros:
+
+    *  Simon Sirca And  Martin Horvat. Computational Methods for  Physicits . Springer Berlin Heiderlberg, 2012.
+    *  Giordano and Nahanishi. Computational Physics. Pearson /Prentice Hall, 2006.
+    *  Hans Petter Langtangen. A primer  on Scientific Programming with Python. Springer Berlin Heidelberg, 2012.
+    *  Stroustrup. Programming: Principles ands Practice using C++. Pearson Education, 2014
+    *  William H Press. Numerical recipes 3rd edition: The art of scientifics computing.Cambringe University
+       Press 2007
+
+Cual será el ambiente de desarrollo? Tenemos dos opciones utilizar REPLIT o usar una maquina virtual para instalar
+un entorno UNIX, para desarrollar el curso. Para comenzar con replit
+    * https://replit.com/
+Tambien se puede enlazar el replit con el repositorio de Git, más adelante se puede utilizar el entorno UNIX
+[Y en particular, se puede utilizar la tablet para correr rutinas en ahí]. Para comenzar a correr y/o ejecutar
+programas en C++ se creo el ejemplo.cpp (Donde .cpp hace referencia a C++) donde imprimimos una simple linea de
+codigo
+.
+
+   Tip Manjaro:
+   ~ Para instalar en Majaro el programa C++ es necesario utilizar G++ que es la version libre  de C, para ello
+     utilizamos las siguiente linea de codigo:
+     $ sudo pacman -Sy gcc
+     Donde descargara y ejecutará la rutina. Tomado del siguiente enlace:
+     https://bln364.com/how-to-develop-c-projects-in-manjaro/
+     
+		
+
+ ** Nota:
+    ~ No llegar a las clases completamente nulo, es mejor comenzar a preparar sus clases.(Leer un poco)
+    ~ Manejar un Calendario - para facilitarse la vida. 
+    ~ Higiene del Sueño - Why we to sleep 
+    ~
+    ~
+    ~

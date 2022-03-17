@@ -1,0 +1,65 @@
+			Programacion y Metodos Númericos
+
+Sylabus
+
+El objetico del curso es aprender a programar, programar a va a depender del
+trabajo independiente que usted realice a diario. A continuación se daran las
+mejores tecnicas que bajo la experiencia del profesor sirven para ser programa-
+dor cientifico.Por lo menos las intefaz graficas no son utilies porque que no
+tenemos un usuario.Lo que queremos es que el codigo que nosotros realizamos
+sea un codigo que otro cientifico pueda entender, pero hay un problema y es que
+en nuestra formacion cientifica no nos enseñan sobre  diseño de sofware, lo que
+se aprende se aprende a la fuerza.La gente sabe programar muy mal, la gente no
+hace test, no saben cuando se deben fiar de los datos ...
+
+El lenguaje que se va a prender es C++, uno debe aprender a programar en multi-
+ples lenguajes. uno necesita la herramienta apropiada en el momento apropiado.
+C++ es muy bueno cuando uno sabe programarlo para hacer cosas muy eficientes,
+mientras Python es muy bueno para el analisis de datos.
+
+   En esta epoca una de las herramientas apropiadas es la programacion.
+
+Dos recurso importantes:
+    * https://iluvatar.bitbucket.io/ProgCPP/
+    * https://www.youtube.com/watch?v=35Z_4Pf8FGE&list=PLxbXsIEaf05qKMpNR69p4iUerDL9mvcE4&index=1
+
+~Consejo:
+	Preparar la clase, para aprovechar el tiempo.
+
+Vamos aprender a utilizar los controladores de versiones, lo basico de la ter
+minal, y las formas de compilar. Hasta el item 6 es lo básico de la programa-
+ción. Hasta el C++11. En este curso aprenderemos a programar con la excusa de
+los metodos numericos.
+
+~ Consejo:
+  La utilizacion de un Calendario.
+  Why we to Sleep? Horarios de dormir.
+
+El editor de texto que quieran. EMACS
+
+Cursos virtuales de C++.
+
+Paginas de ejercicios de programacion. Project-Euler
+
+Se puede utilizar repl.it para compilar los programas.Sin embargo; en las
+distribuciones de Linux se puede utilizar el programa gpp. Para ello, es
+necesario abrir nuestro editor de texto. La linea de comando sería en la
+terminal:
+$ emacs ejemplo.cpp &
+
+ese ultimo & es para que no se bloque la terminal. Adicional a esto tenemos
+ #include<iostream>
+
+int main(){
+    std::cout<<"Hello worl"
+}
+
+Donde para ejecutar el codigo, se realiza la siguiente linea de codigo:
+
+ $g++ ejemplo.cpp -o ejemplo.x
+ 
+donde el programa genera un ejecutable, con el nombre ejemplo.x
+Si no escribieramos -o nombre.x el programa genera por si mismo un a.out
+que corresponde al ejecutable del programa. Donde utilizamos el compilador
+g++ que es el compilador de  GNU.
+
