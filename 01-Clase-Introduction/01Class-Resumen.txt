@@ -2,19 +2,19 @@
 
 Sylabus
 
-El objetico del curso es aprender a programar, programar a va a depender del
-trabajo independiente que usted realice a diario. A continuación se daran las
+El objetico del curso es aprender a programar, programar a va a depender    del
+trabajo independiente que usted realice a diario. A continuación se daran   las
 mejores tecnicas que bajo la experiencia del profesor sirven para ser programa-
-dor cientifico.Por lo menos las intefaz graficas no son utilies porque que no
+dor cientifico.Por lo menos las intefaz graficas no son utilies porque que  no
 tenemos un usuario.Lo que queremos es que el codigo que nosotros realizamos
 sea un codigo que otro cientifico pueda entender, pero hay un problema y es que
 en nuestra formacion cientifica no nos enseñan sobre  diseño de sofware, lo que
-se aprende se aprende a la fuerza.La gente sabe programar muy mal, la gente no
+se aprende se aprende a la fuerza.La gente sabe programar muy mal, la gente  no
 hace test, no saben cuando se deben fiar de los datos ...
 
 El lenguaje que se va a prender es C++, uno debe aprender a programar en multi-
-ples lenguajes. uno necesita la herramienta apropiada en el momento apropiado.
-C++ es muy bueno cuando uno sabe programarlo para hacer cosas muy eficientes,
+ples lenguajes. uno necesita la herramienta apropiada en el momento  apropiado.
+C++ es muy bueno cuando uno sabe programarlo para hacer cosas muy   eficientes,
 mientras Python es muy bueno para el analisis de datos.
 
    En esta epoca una de las herramientas apropiadas es la programacion.
