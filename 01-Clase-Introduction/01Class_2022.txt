@@ -1,0 +1,14 @@
+		# clase 2022-2
+
+Este curso vamos va ha hacer enfocado en la programación, a través de
+una introducción de métodos númericos. En este curso no se va a hacer
+un desarrollo riguroso de los métodos númericos, o implementar desde
+cero un método.
+***La idea central es aprender a programar, es decir;vamos a apren-
+der a pensar.***
+    ~ Programar no es saber un lenguaje, es saber pensar de cierta
+    manera
+    ~ En física se deben aprender a diferentes lenguajes
+
+En High Performance Computing o bien la fisica computacional, lo que
+domina es C ó C++ 
