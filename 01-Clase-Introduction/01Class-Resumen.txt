@@ -1,6 +1,6 @@
 			Programacion y Metodos Númericos
 
-Sylabus
+Syllabus
 
 El objetico del curso es aprender a programar, programar a va a depender    del
 trabajo independiente que usted realice a diario. A continuación se daran   las
@@ -45,13 +45,14 @@ Se puede utilizar repl.it para compilar los programas.Sin embargo; en las
 distribuciones de Linux se puede utilizar el programa gpp. Para ello, es
 necesario abrir nuestro editor de texto. La linea de comando sería en la
 terminal:
+
 $ emacs ejemplo.cpp &
 
 ese ultimo & es para que no se bloque la terminal. Adicional a esto tenemos
  #include<iostream>
 
 int main(){
-    std::cout<<"Hello worl"
+    std::cout<<"Hello world"
 }
 
 Donde para ejecutar el codigo, se realiza la siguiente linea de codigo:
